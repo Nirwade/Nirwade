@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">Quality Assurance Engineer with a great interest in Technologies and IT development</h3>
 
-<img align="right" alt="coding" width="400" src="<img alt="Hey Programmer" class="bg lq od c" width="700" https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
-
 
 - 🔭 I’m currently working on ChatBot
 
