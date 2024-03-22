@@ -2,6 +2,7 @@
 <h3 align="center">Quality Assurance Engineer with a great interest in Technologies and IT development</h3>
 
 
+
 - 🔭 I’m currently working on ChatBot
 
 - 🌱 I’m currently learning **Advanced AI/ML frameworks and techniques**
