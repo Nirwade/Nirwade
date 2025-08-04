@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center"> Chatbot Automation Engineer </h3>
 
-
-
-- 🔭 I’m currently working on ChatBot
-
 - 🌱 I’m currently learning **Advanced AI/ML frameworks and techniques**
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
