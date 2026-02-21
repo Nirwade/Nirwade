@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi</h1>
-<h3 align="center"> Chatbot Automation Engineer </h3>
+<h3 align="center"> Conversational AI spcialist  </h3>
 
 - 🌱 I’m currently learning **Advanced AI/ML frameworks and techniques**
 
