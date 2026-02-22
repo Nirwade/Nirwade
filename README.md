@@ -2,13 +2,13 @@
 <h3 align="center">AI & Machine Learning Engineer | MS in AI @ University at Buffalo 🎓</h3>
 <h3 align="center">Graduate Research Assistant @ UB | Ex-Conversational AI @ DAZN | Ex-Senior Analyst @ Accenture (Uber)</h3>
 
-- 🔬 **Currently:** Architecting NEH-funded **Graph Neural Networks (GNN)** for cultural conservation.
+- 🔬 **Currently:** Architecting NEH-funded **Graph Neural Networks (GNN)** for cultural conservation
 
-- 🌱 **Learning:** Scalable Graph AI, Decentralized Compute, and LLM fine-tuning.
+- 🌱 **Learning:** Scalable Graph AI, Decentralized Compute, and LLM fine-tuning
 
-- 👯 **Collaborating on:** Multi-modal AI projects and Open Source ML pipelines.
+- 👯 **Collaborating on:** Multi-modal AI projects and Open Source ML pipelines
 
-- 💬 **Ask me about:** Conversational AI, MLOps, and automating complex workflows with Python.
+- 💬 **Ask me about:** Conversational AI, MLOps, and automating complex workflows with Python
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
